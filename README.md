@@ -3,11 +3,8 @@
 </div>  
   
 
-## <div align="center">I'm Pasquale, a freelance developer 👨‍💻 🚀</div>  
-  
-
-###🌱 I’m currently studying at Epicode school  
-  
+## <div align="center">I'm Pasquale, a freelance developer currently studying at Epicode school  👨‍💻 🚀</div>  
+ 
 
 <br/>  
 
