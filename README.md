@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Pasquale, a freelance developer 👨‍💻 🚀</div>  
+## <div align="center">I'm Pasquale, a freelance developer 👨‍💻 🚀</div>  
   
 
-- 🌱 I’m currently studying at Epicode school  
+###🌱 I’m currently studying at Epicode school  
   
 
 <br/>  
