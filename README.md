@@ -84,7 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pasqualecapuano/pasqualecapuano/output/snake.svg" alt="Snake animation" />
 
 ###
 
